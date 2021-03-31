@@ -66,8 +66,6 @@ console.log(lastfed)
   text("Last Time Fed : ", 400, 30)*/
 
  
-
- 
   drawSprites();
 }
 
